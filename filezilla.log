@@ -1,0 +1,474 @@
+2018-02-26 12:49:13 5544 2 Status: Downloading /update.php?platform=x86_64-w64-mingw32&version=3.30.0&osversion=6.3&osarch=64&updated=1&cpuid=sse,sse2,sse3,ssse3,sse4.1,sse4.2,avx,aes,pclmulqdq,rdrnd&initial=0
+2018-02-26 12:49:13 5544 2 Status: Resolving address of update.filezilla-project.org
+2018-02-26 12:49:13 5544 2 Status: Connecting to 136.243.154.122:443...
+2018-02-26 12:49:13 5544 2 Status: Connection established, initializing TLS...
+2018-02-26 12:49:14 5544 2 Status: Verifying certificate...
+2018-02-26 12:49:14 5544 2 Status: TLS connection established, sending HTTP request
+2018-02-26 12:49:14 5544 2 Command: GET /update.php?platform=x86_64-w64-mingw32&version=3.30.0&osversion=6.3&osarch=64&updated=1&cpuid=sse,sse2,sse3,ssse3,sse4.1,sse4.2,avx,aes,pclmulqdq,rdrnd&initial=0 HTTP/1.1
+2018-02-26 12:49:14 5544 2 Command: Connection: close
+2018-02-26 12:49:14 5544 2 Command: Host: update.filezilla-project.org
+2018-02-26 12:49:14 5544 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:49:14 5544 2 Response: HTTP/1.1 200 OK
+2018-02-26 12:49:14 5544 2 Response: Date: Mon, 26 Feb 2018 07:18:49 GMT
+2018-02-26 12:49:14 5544 2 Response: Server: Apache
+2018-02-26 12:49:14 5544 2 Response: Vary: Accept-Encoding
+2018-02-26 12:49:14 5544 2 Response: X-Content-Type-Options: nosniff
+2018-02-26 12:49:14 5544 2 Response: X-XSS-Protection: 1; mode=block
+2018-02-26 12:49:14 5544 2 Response: Connection: close
+2018-02-26 12:49:14 5544 2 Response: Transfer-Encoding: chunked
+2018-02-26 12:49:14 5544 2 Response: Content-Type: text/plain;charset=UTF-8
+2018-02-26 12:49:14 5544 2 Status: File transfer successful, transferred 1,230 bytes in 1 second
+2018-02-26 12:49:14 5544 2 Status: Downloading /filezilla/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:49:14 5544 2 Status: Resolving address of downloads.sourceforge.net
+2018-02-26 12:49:14 5544 2 Status: Connecting to 216.105.38.13:80...
+2018-02-26 12:49:14 5544 2 Status: Connection established, sending HTTP request
+2018-02-26 12:49:14 5544 2 Command: GET /filezilla/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:49:14 5544 2 Command: Connection: close
+2018-02-26 12:49:14 5544 2 Command: Host: downloads.sourceforge.net
+2018-02-26 12:49:14 5544 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:49:15 5544 2 Response: HTTP/1.1 301 Moved Permanently
+2018-02-26 12:49:15 5544 2 Response: Server: nginx/1.13.9
+2018-02-26 12:49:15 5544 2 Response: Date: Mon, 26 Feb 2018 07:18:50 GMT
+2018-02-26 12:49:15 5544 2 Response: Content-Type: text/html; charset=UTF-8
+2018-02-26 12:49:15 5544 2 Response: Content-Length: 204
+2018-02-26 12:49:15 5544 2 Response: Connection: close
+2018-02-26 12:49:15 5544 2 Response: Location: http://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:49:15 5544 2 Status: Resolving address of downloads.sourceforge.net
+2018-02-26 12:49:15 5544 2 Status: Connecting to 216.105.38.13:80...
+2018-02-26 12:49:15 5544 2 Status: Connection established, sending HTTP request
+2018-02-26 12:49:15 5544 2 Command: GET /project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:49:15 5544 2 Command: Connection: close
+2018-02-26 12:49:15 5544 2 Command: Host: downloads.sourceforge.net
+2018-02-26 12:49:15 5544 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:49:17 5544 2 Response: HTTP/1.1 302 Found
+2018-02-26 12:49:17 5544 2 Response: Server: nginx/1.13.9
+2018-02-26 12:49:17 5544 2 Response: Date: Mon, 26 Feb 2018 07:18:52 GMT
+2018-02-26 12:49:17 5544 2 Response: Content-Type: text/html; charset=UTF-8
+2018-02-26 12:49:17 5544 2 Response: Content-Length: 193
+2018-02-26 12:49:17 5544 2 Response: Connection: close
+2018-02-26 12:49:17 5544 2 Response: content-disposition: attachment; filename="FileZilla_3.31.0_win64-setup.exe"
+2018-02-26 12:49:17 5544 2 Response: Set-Cookie: sf_mirror_attempt="filezilla:excellmedia:FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe"; expires="Mon, 26-Feb-2018 07:20:52 GMT"; Max-Age=120; Path=/
+2018-02-26 12:49:17 5544 2 Response: Location: https://excellmedia.dl.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:49:17 5544 2 Status: Resolving address of excellmedia.dl.sourceforge.net
+2018-02-26 12:49:17 5544 2 Status: Connecting to 202.153.32.19:443...
+2018-02-26 12:49:17 5544 2 Status: Connection established, initializing TLS...
+2018-02-26 12:49:18 5544 2 Status: Verifying certificate...
+2018-02-26 12:49:18 5544 2 Status: TLS connection established, sending HTTP request
+2018-02-26 12:49:18 5544 2 Command: GET /project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:49:18 5544 2 Command: Connection: close
+2018-02-26 12:49:18 5544 2 Command: Host: excellmedia.dl.sourceforge.net
+2018-02-26 12:49:18 5544 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:49:18 5544 2 Response: HTTP/1.1 200 OK
+2018-02-26 12:49:18 5544 2 Response: Date: Mon, 26 Feb 2018 07:18:52 GMT
+2018-02-26 12:49:18 5544 2 Response: Server: Apache/2.2.15 (CentOS)
+2018-02-26 12:49:18 5544 2 Response: Last-Modified: Fri, 23 Feb 2018 10:19:29 GMT
+2018-02-26 12:49:18 5544 2 Response: ETag: "158a2-78c468-565de7edb4e40"
+2018-02-26 12:49:18 5544 2 Response: Accept-Ranges: bytes
+2018-02-26 12:49:18 5544 2 Response: Content-Length: 7914600
+2018-02-26 12:49:18 5544 2 Response: Connection: close
+2018-02-26 12:49:18 5544 2 Response: Content-Type: application/octet-stream
+2018-02-26 12:49:32 5544 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:49:32 5544 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:49:32 5544 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:49:32 5544 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:49:32 5544 1 Command: AUTH TLS
+2018-02-26 12:49:32 5544 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:49:32 5544 1 Status: Initializing TLS...
+2018-02-26 12:49:33 5544 1 Status: Verifying certificate...
+2018-02-26 12:49:36 5544 1 Status: TLS connection established.
+2018-02-26 12:49:36 5544 1 Command: USER multos
+2018-02-26 12:49:36 5544 1 Response: 331 Password required for multos.
+2018-02-26 12:49:36 5544 1 Command: PASS ************
+2018-02-26 12:49:36 5544 1 Response: 530 User cannot log in.
+2018-02-26 12:49:36 5544 1 Error: Critical error: Could not connect to server
+2018-02-26 12:49:40 5544 1 Status: Disconnected from server
+2018-02-26 12:49:40 5544 1 Status: Delaying connection for 2 seconds due to previously failed connection attempt...
+2018-02-26 12:49:41 5544 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:49:41 5544 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:49:42 5544 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:49:42 5544 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:49:42 5544 1 Command: AUTH TLS
+2018-02-26 12:49:42 5544 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:49:42 5544 1 Status: Initializing TLS...
+2018-02-26 12:49:43 5544 1 Status: Verifying certificate...
+2018-02-26 12:49:43 5544 1 Status: TLS connection established.
+2018-02-26 12:49:43 5544 1 Command: USER multos
+2018-02-26 12:49:43 5544 1 Response: 331 Password required for multos.
+2018-02-26 12:49:43 5544 1 Command: PASS ************
+2018-02-26 12:49:43 5544 1 Response: 530 User cannot log in.
+2018-02-26 12:49:43 5544 1 Error: Critical error: Could not connect to server
+2018-02-26 12:49:52 5544 1 Status: Disconnected from server
+2018-02-26 12:49:52 5544 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:49:52 5544 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:49:55 5544 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:49:56 5544 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:49:56 5544 1 Command: AUTH TLS
+2018-02-26 12:49:56 5544 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:49:56 5544 1 Status: Initializing TLS...
+2018-02-26 12:49:57 5544 1 Status: Verifying certificate...
+2018-02-26 12:49:57 5544 1 Status: TLS connection established.
+2018-02-26 12:49:57 5544 1 Command: USER multos
+2018-02-26 12:49:57 5544 1 Response: 331 Password required for multos.
+2018-02-26 12:49:57 5544 1 Command: PASS ************
+2018-02-26 12:49:57 5544 1 Response: 530 User cannot log in.
+2018-02-26 12:49:57 5544 1 Error: Critical error: Could not connect to server
+2018-02-26 12:50:10 5544 1 Status: Disconnected from server
+2018-02-26 12:50:10 5544 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:50:10 5544 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:50:10 5544 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:50:10 5544 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:50:10 5544 1 Command: AUTH TLS
+2018-02-26 12:50:10 5544 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:50:10 5544 1 Status: Initializing TLS...
+2018-02-26 12:50:11 5544 1 Status: Verifying certificate...
+2018-02-26 12:50:11 5544 1 Status: TLS connection established.
+2018-02-26 12:50:11 5544 1 Command: USER multos
+2018-02-26 12:50:11 5544 1 Response: 331 Password required for multos.
+2018-02-26 12:50:11 5544 1 Command: PASS ************
+2018-02-26 12:50:12 5544 1 Response: 530 User cannot log in.
+2018-02-26 12:50:12 5544 1 Error: Critical error: Could not connect to server
+2018-02-26 12:50:17 5544 1 Status: Disconnected from server
+2018-02-26 12:50:17 5544 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:50:17 5544 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:50:17 5544 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:50:17 5544 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:50:17 5544 1 Command: AUTH TLS
+2018-02-26 12:50:18 5544 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:50:18 5544 1 Status: Initializing TLS...
+2018-02-26 12:50:18 5544 1 Status: Verifying certificate...
+2018-02-26 12:50:18 5544 1 Status: TLS connection established.
+2018-02-26 12:50:18 5544 1 Command: USER multos
+2018-02-26 12:50:19 5544 1 Response: 331 Password required for multos.
+2018-02-26 12:50:19 5544 1 Command: PASS ************
+2018-02-26 12:50:19 5544 1 Response: 530 User cannot log in.
+2018-02-26 12:50:19 5544 1 Error: Critical error: Could not connect to server
+2018-02-26 12:50:20 5544 2 Error: File transfer failed
+2018-02-26 12:50:22 8444 2 Status: Downloading /filezilla/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:50:22 8444 2 Status: Resolving address of downloads.sourceforge.net
+2018-02-26 12:50:22 8444 2 Status: Connecting to 216.105.38.13:80...
+2018-02-26 12:50:22 8444 2 Status: Connection established, sending HTTP request
+2018-02-26 12:50:22 8444 2 Command: GET /filezilla/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:50:22 8444 2 Command: Connection: close
+2018-02-26 12:50:22 8444 2 Command: Host: downloads.sourceforge.net
+2018-02-26 12:50:22 8444 2 Command: Range: bytes=5914624-
+2018-02-26 12:50:22 8444 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:50:23 8444 2 Response: HTTP/1.1 301 Moved Permanently
+2018-02-26 12:50:23 8444 2 Response: Server: nginx/1.13.9
+2018-02-26 12:50:23 8444 2 Response: Date: Mon, 26 Feb 2018 07:19:58 GMT
+2018-02-26 12:50:23 8444 2 Response: Content-Type: text/html; charset=UTF-8
+2018-02-26 12:50:23 8444 2 Response: Content-Length: 204
+2018-02-26 12:50:23 8444 2 Response: Connection: close
+2018-02-26 12:50:23 8444 2 Response: Location: http://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:50:23 8444 2 Status: Resolving address of downloads.sourceforge.net
+2018-02-26 12:50:23 8444 2 Status: Connecting to 216.105.38.13:80...
+2018-02-26 12:50:23 8444 2 Status: Connection established, sending HTTP request
+2018-02-26 12:50:23 8444 2 Command: GET /project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:50:23 8444 2 Command: Connection: close
+2018-02-26 12:50:23 8444 2 Command: Host: downloads.sourceforge.net
+2018-02-26 12:50:23 8444 2 Command: Range: bytes=5914624-
+2018-02-26 12:50:23 8444 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:50:24 8444 2 Response: HTTP/1.1 302 Found
+2018-02-26 12:50:24 8444 2 Response: Server: nginx/1.13.9
+2018-02-26 12:50:24 8444 2 Response: Date: Mon, 26 Feb 2018 07:19:58 GMT
+2018-02-26 12:50:24 8444 2 Response: Content-Type: text/html; charset=UTF-8
+2018-02-26 12:50:24 8444 2 Response: Content-Length: 193
+2018-02-26 12:50:24 8444 2 Response: Connection: close
+2018-02-26 12:50:24 8444 2 Response: content-disposition: attachment; filename="FileZilla_3.31.0_win64-setup.exe"
+2018-02-26 12:50:24 8444 2 Response: Set-Cookie: sf_mirror_attempt="filezilla:excellmedia:FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe"; expires="Mon, 26-Feb-2018 07:21:58 GMT"; Max-Age=120; Path=/
+2018-02-26 12:50:24 8444 2 Response: Location: https://excellmedia.dl.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe
+2018-02-26 12:50:24 8444 2 Status: Resolving address of excellmedia.dl.sourceforge.net
+2018-02-26 12:50:24 8444 2 Status: Connecting to 202.153.32.19:443...
+2018-02-26 12:50:24 8444 2 Status: Connection established, initializing TLS...
+2018-02-26 12:50:24 8444 2 Status: Verifying certificate...
+2018-02-26 12:50:24 8444 2 Status: TLS connection established, sending HTTP request
+2018-02-26 12:50:24 8444 2 Command: GET /project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe HTTP/1.1
+2018-02-26 12:50:24 8444 2 Command: Connection: close
+2018-02-26 12:50:24 8444 2 Command: Host: excellmedia.dl.sourceforge.net
+2018-02-26 12:50:24 8444 2 Command: Range: bytes=5914624-
+2018-02-26 12:50:24 8444 2 Command: User-Agent: FileZilla/3.30.0
+2018-02-26 12:50:24 8444 2 Response: HTTP/1.1 206 Partial Content
+2018-02-26 12:50:24 8444 2 Response: Date: Mon, 26 Feb 2018 07:19:59 GMT
+2018-02-26 12:50:24 8444 2 Response: Server: Apache/2.2.15 (CentOS)
+2018-02-26 12:50:24 8444 2 Response: Last-Modified: Fri, 23 Feb 2018 10:19:29 GMT
+2018-02-26 12:50:24 8444 2 Response: ETag: "158a2-78c468-565de7edb4e40"
+2018-02-26 12:50:24 8444 2 Response: Accept-Ranges: bytes
+2018-02-26 12:50:24 8444 2 Response: Content-Length: 1999976
+2018-02-26 12:50:24 8444 2 Response: Content-Range: bytes 5914624-7914599/7914600
+2018-02-26 12:50:24 8444 2 Response: Connection: close
+2018-02-26 12:50:24 8444 2 Response: Content-Type: application/octet-stream
+2018-02-26 12:50:41 8444 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:50:41 8444 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:50:41 8444 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:50:41 8444 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:50:41 8444 1 Command: AUTH TLS
+2018-02-26 12:50:41 8444 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:50:41 8444 1 Status: Initializing TLS...
+2018-02-26 12:50:42 8444 1 Status: Verifying certificate...
+2018-02-26 12:50:42 8444 1 Status: TLS connection established.
+2018-02-26 12:50:42 8444 1 Command: USER multos
+2018-02-26 12:50:42 8444 1 Response: 331 Password required for multos.
+2018-02-26 12:50:42 8444 1 Command: PASS ************
+2018-02-26 12:50:43 8444 1 Response: 530 User cannot log in.
+2018-02-26 12:50:43 8444 1 Error: Critical error: Could not connect to server
+2018-02-26 12:50:44 8444 2 Status: File transfer successful, transferred 1,999,976 bytes in 20 seconds
+2018-02-26 12:51:15 13892 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:51:15 13892 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:51:16 13892 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:51:16 13892 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:51:16 13892 1 Command: AUTH TLS
+2018-02-26 12:51:16 13892 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:51:16 13892 1 Status: Initializing TLS...
+2018-02-26 12:51:17 13892 1 Status: Verifying certificate...
+2018-02-26 12:51:17 13892 1 Status: TLS connection established.
+2018-02-26 12:51:17 13892 1 Command: USER multos
+2018-02-26 12:51:17 13892 1 Response: 331 Password required for multos.
+2018-02-26 12:51:17 13892 1 Command: PASS ************
+2018-02-26 12:51:17 13892 1 Response: 530 User cannot log in.
+2018-02-26 12:51:17 13892 1 Error: Critical error: Could not connect to server
+2018-02-26 12:52:40 13892 1 Status: Disconnected from server
+2018-02-26 12:52:40 13892 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:52:40 13892 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:52:40 13892 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:52:41 13892 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:52:41 13892 1 Command: AUTH TLS
+2018-02-26 12:52:41 13892 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:52:41 13892 1 Status: Initializing TLS...
+2018-02-26 12:52:42 13892 1 Status: Verifying certificate...
+2018-02-26 12:52:42 13892 1 Status: TLS connection established.
+2018-02-26 12:52:42 13892 1 Command: USER multos
+2018-02-26 12:52:42 13892 1 Response: 331 Password required for multos.
+2018-02-26 12:52:42 13892 1 Command: PASS ************
+2018-02-26 12:52:42 13892 1 Response: 530 User cannot log in.
+2018-02-26 12:52:42 13892 1 Error: Critical error: Could not connect to server
+2018-02-26 12:55:49 13892 1 Status: Disconnected from server
+2018-02-26 12:55:49 13892 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:55:49 13892 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:55:49 13892 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:55:50 13892 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:55:50 13892 1 Command: USER multos
+2018-02-26 12:55:50 13892 1 Response: 331 Password required for multos.
+2018-02-26 12:55:50 13892 1 Command: PASS ************
+2018-02-26 12:55:50 13892 1 Response: 530 User cannot log in.
+2018-02-26 12:55:50 13892 1 Error: Critical error: Could not connect to server
+2018-02-26 12:56:06 13892 1 Status: Disconnected from server
+2018-02-26 12:56:06 13892 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:56:06 13892 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:56:06 13892 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:56:06 13892 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:56:06 13892 1 Command: AUTH TLS
+2018-02-26 12:56:06 13892 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:56:06 13892 1 Status: Initializing TLS...
+2018-02-26 12:56:07 13892 1 Status: Verifying certificate...
+2018-02-26 12:56:07 13892 1 Status: TLS connection established.
+2018-02-26 12:56:07 13892 1 Command: USER multos
+2018-02-26 12:56:07 13892 1 Response: 331 Password required for multos.
+2018-02-26 12:56:07 13892 1 Command: PASS ************
+2018-02-26 12:56:08 13892 1 Response: 530 User cannot log in.
+2018-02-26 12:56:08 13892 1 Error: Critical error: Could not connect to server
+2018-02-26 12:56:15 13892 1 Status: Disconnected from server
+2018-02-26 12:56:15 13892 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:56:15 13892 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:56:16 13892 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:56:16 13892 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:56:16 13892 1 Command: AUTH TLS
+2018-02-26 12:56:16 13892 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:56:16 13892 1 Status: Initializing TLS...
+2018-02-26 12:56:17 13892 1 Status: Verifying certificate...
+2018-02-26 12:56:17 13892 1 Status: TLS connection established.
+2018-02-26 12:56:17 13892 1 Command: USER multos
+2018-02-26 12:56:17 13892 1 Response: 331 Password required for multos.
+2018-02-26 12:56:17 13892 1 Command: PASS ************
+2018-02-26 12:56:17 13892 1 Response: 530 User cannot log in.
+2018-02-26 12:56:17 13892 1 Error: Critical error: Could not connect to server
+2018-02-26 12:57:32 13092 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:57:32 13092 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:57:32 13092 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:57:32 13092 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:57:32 13092 1 Command: AUTH TLS
+2018-02-26 12:57:33 13092 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:57:33 13092 1 Status: Initializing TLS...
+2018-02-26 12:57:33 13092 1 Status: Verifying certificate...
+2018-02-26 12:57:33 13092 1 Status: TLS connection established.
+2018-02-26 12:57:33 13092 1 Command: USER multos
+2018-02-26 12:57:34 13092 1 Response: 331 Password required for multos.
+2018-02-26 12:57:34 13092 1 Command: PASS ************
+2018-02-26 12:57:34 13092 1 Response: 530 User cannot log in.
+2018-02-26 12:57:34 13092 1 Error: Critical error: Could not connect to server
+2018-02-26 12:57:38 13092 1 Status: Disconnected from server
+2018-02-26 12:57:38 13092 1 Status: Delaying connection for 2 seconds due to previously failed connection attempt...
+2018-02-26 12:57:39 13092 1 Status: Resolving address of win13.quadrahosting.com.au
+2018-02-26 12:57:39 13092 1 Status: Connecting to 202.146.214.7:21...
+2018-02-26 12:57:39 13092 1 Status: Connection established, waiting for welcome message...
+2018-02-26 12:57:40 13092 1 Response: 220 Microsoft FTP Service
+2018-02-26 12:57:40 13092 1 Command: AUTH TLS
+2018-02-26 12:57:40 13092 1 Response: 234 AUTH command ok. Expecting TLS Negotiation.
+2018-02-26 12:57:40 13092 1 Status: Initializing TLS...
+2018-02-26 12:57:41 13092 1 Status: Verifying certificate...
+2018-02-26 12:57:41 13092 1 Status: TLS connection established.
+2018-02-26 12:57:41 13092 1 Command: USER multos
+2018-02-26 12:57:41 13092 1 Response: 331 Password required for multos.
+2018-02-26 12:57:41 13092 1 Command: PASS ************
+2018-02-26 12:57:41 13092 1 Response: 530 User cannot log in.
+2018-02-26 12:57:41 13092 1 Error: Critical error: Could not connect to server
+2018-02-26 19:28:20 14780 1 Status: Resolving address of meadowsandbyrne.com
+2018-02-26 19:28:20 14780 1 Status: Connecting to 165.84.209.32:21...
+2018-02-26 19:28:42 14780 1 Status: Connection attempt failed with "ETIMEDOUT - Connection attempt timed out".
+2018-02-26 19:28:42 14780 1 Error: Could not connect to server
+2018-02-26 19:28:42 14780 1 Status: Waiting to retry...
+2018-02-26 19:28:47 14780 1 Status: Resolving address of meadowsandbyrne.com
+2018-02-26 19:28:47 14780 1 Status: Connecting to 165.84.209.32:21...
+2018-02-26 19:29:08 14780 1 Status: Connection attempt failed with "ETIMEDOUT - Connection attempt timed out".
+2018-02-26 19:29:08 14780 1 Error: Could not connect to server
+2018-02-26 19:29:30 14780 1 Status: Disconnected from server
+2018-02-26 19:29:30 14780 1 Status: Resolving address of meadowsandbyrne.com
+2018-02-26 19:29:30 14780 1 Status: Connecting to 165.84.209.32:21...
+2018-02-26 19:29:30 14780 1 Status: Connection established, waiting for welcome message...
+2018-02-26 19:29:31 14780 1 Response: 220 FTP Server Ready
+2018-02-26 19:29:31 14780 1 Command: USER ftp@meadowsandbyrne.com
+2018-02-26 19:29:31 14780 1 Response: 331 Password required for ftp@meadowsandbyrne.com
+2018-02-26 19:29:31 14780 1 Command: PASS ****************
+2018-02-26 19:29:31 14780 1 Response: 230-***************************************************************************
+2018-02-26 19:29:31 14780 1 Response:                              NOTICE TO USERS
+2018-02-26 19:29:31 14780 1 Response:  This computer system is private property. It is for authorized use only.
+2018-02-26 19:29:31 14780 1 Response:  Users (authorized or unauthorized) have no explicit or implicit
+2018-02-26 19:29:31 14780 1 Response:  expectation of privacy.
+2018-02-26 19:29:31 14780 1 Response:  
+2018-02-26 19:29:31 14780 1 Response:  Any or all uses of this system and all files on this system may be
+2018-02-26 19:29:31 14780 1 Response:  intercepted, monitored, recorded, copied, audited and inspected by
+2018-02-26 19:29:31 14780 1 Response:  using this system, the user consents to such interception, monitoring,
+2018-02-26 19:29:31 14780 1 Response:  recording, copying, auditing, inspection, and disclosure at the
+2018-02-26 19:29:31 14780 1 Response:  discretion of such personnel or officials.  Unauthorized or improper use
+2018-02-26 19:29:31 14780 1 Response:  of this system may result in civil and criminal penalties and
+2018-02-26 19:29:31 14780 1 Response:  administrative or disciplinary action, as appropriate. By continuing to
+2018-02-26 19:29:31 14780 1 Response:  use this system you indicate your awareness of and consent to these terms
+2018-02-26 19:29:31 14780 1 Response:  and conditions of use. LOG OFF IMMEDIATELY if you do not agree to the
+2018-02-26 19:29:31 14780 1 Response:  conditions stated in this warning.
+2018-02-26 19:29:31 14780 1 Response:  ****************************************************************************
+2018-02-26 19:29:31 14780 1 Response: 230 User ftp@meadowsandbyrne.com logged in
+2018-02-26 19:29:31 14780 1 Command: SYST
+2018-02-26 19:29:31 14780 1 Response: 215 UNIX Type: L8
+2018-02-26 19:29:31 14780 1 Command: FEAT
+2018-02-26 19:29:31 14780 1 Response: 211-Features:
+2018-02-26 19:29:31 14780 1 Response:  MDTM
+2018-02-26 19:29:31 14780 1 Response:  SSCN
+2018-02-26 19:29:31 14780 1 Response:  TVFS
+2018-02-26 19:29:31 14780 1 Response:  MFMT
+2018-02-26 19:29:31 14780 1 Response:  SIZE
+2018-02-26 19:29:31 14780 1 Response:  PROT
+2018-02-26 19:29:31 14780 1 Response:  CCC
+2018-02-26 19:29:31 14780 1 Response:  PBSZ
+2018-02-26 19:29:31 14780 1 Response:  AUTH TLS
+2018-02-26 19:29:31 14780 1 Response:  MFF modify;UNIX.group;UNIX.mode;
+2018-02-26 19:29:31 14780 1 Response:  REST STREAM
+2018-02-26 19:29:31 14780 1 Response:  MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.mode*;UNIX.owner*;
+2018-02-26 19:29:31 14780 1 Response:  EPRT
+2018-02-26 19:29:31 14780 1 Response:  EPSV
+2018-02-26 19:29:31 14780 1 Response: 211 End
+2018-02-26 19:29:31 14780 1 Status: Server does not support non-ASCII characters.
+2018-02-26 19:29:31 14780 1 Status: Logged in
+2018-02-26 19:29:31 14780 1 Status: Retrieving directory listing...
+2018-02-26 19:29:31 14780 1 Command: PWD
+2018-02-26 19:29:31 14780 1 Response: 257 "/" is the current directory
+2018-02-26 19:29:31 14780 1 Command: TYPE I
+2018-02-26 19:29:32 14780 1 Response: 200 Type set to I
+2018-02-26 19:29:32 14780 1 Command: PASV
+2018-02-26 19:29:32 14780 1 Response: 227 Entering Passive Mode (165,84,209,32,195,123).
+2018-02-26 19:29:32 14780 1 Command: MLSD
+2018-02-26 19:29:32 14780 1 Response: 150 Opening BINARY mode data connection for MLSD
+2018-02-26 19:29:32 14780 1 Response: 226 Transfer complete
+2018-02-26 19:29:32 14780 1 Status: Directory listing of "/" successful
+2018-02-26 19:29:41 14780 1 Status: Retrieving directory listing of "/meadowsandbyrne.com"...
+2018-02-26 19:29:41 14780 1 Command: CWD meadowsandbyrne.com
+2018-02-26 19:29:41 14780 1 Response: 250 CWD command successful
+2018-02-26 19:29:41 14780 1 Command: PWD
+2018-02-26 19:29:41 14780 1 Response: 257 "/meadowsandbyrne.com" is the current directory
+2018-02-26 19:29:41 14780 1 Command: PASV
+2018-02-26 19:29:41 14780 1 Response: 227 Entering Passive Mode (165,84,209,32,195,169).
+2018-02-26 19:29:41 14780 1 Command: MLSD
+2018-02-26 19:29:41 14780 1 Response: 150 Opening BINARY mode data connection for MLSD
+2018-02-26 19:29:42 14780 1 Response: 226 Transfer complete
+2018-02-26 19:29:42 14780 1 Status: Directory listing of "/meadowsandbyrne.com" successful
+2018-02-26 19:29:50 14780 3 Status: Resolving address of meadowsandbyrne.com
+2018-02-26 19:29:50 14780 3 Status: Connecting to 165.84.209.32:21...
+2018-02-26 19:29:50 14780 3 Status: Connection established, waiting for welcome message...
+2018-02-26 19:29:50 14780 3 Response: 220 FTP Server Ready
+2018-02-26 19:29:50 14780 3 Command: USER ftp@meadowsandbyrne.com
+2018-02-26 19:29:50 14780 3 Response: 331 Password required for ftp@meadowsandbyrne.com
+2018-02-26 19:29:50 14780 3 Command: PASS ****************
+2018-02-26 19:29:50 14780 3 Response: 230-***************************************************************************
+2018-02-26 19:29:50 14780 3 Response:                              NOTICE TO USERS
+2018-02-26 19:29:50 14780 3 Response:  This computer system is private property. It is for authorized use only.
+2018-02-26 19:29:50 14780 3 Response:  Users (authorized or unauthorized) have no explicit or implicit
+2018-02-26 19:29:50 14780 3 Response:  expectation of privacy.
+2018-02-26 19:29:50 14780 3 Response:  
+2018-02-26 19:29:50 14780 3 Response:  Any or all uses of this system and all files on this system may be
+2018-02-26 19:29:50 14780 3 Response:  intercepted, monitored, recorded, copied, audited and inspected by
+2018-02-26 19:29:50 14780 3 Response:  using this system, the user consents to such interception, monitoring,
+2018-02-26 19:29:50 14780 3 Response:  recording, copying, auditing, inspection, and disclosure at the
+2018-02-26 19:29:50 14780 3 Response:  discretion of such personnel or officials.  Unauthorized or improper use
+2018-02-26 19:29:50 14780 3 Response:  of this system may result in civil and criminal penalties and
+2018-02-26 19:29:50 14780 3 Response:  administrative or disciplinary action, as appropriate. By continuing to
+2018-02-26 19:29:50 14780 3 Response:  use this system you indicate your awareness of and consent to these terms
+2018-02-26 19:29:50 14780 3 Response:  and conditions of use. LOG OFF IMMEDIATELY if you do not agree to the
+2018-02-26 19:29:50 14780 3 Response:  conditions stated in this warning.
+2018-02-26 19:29:50 14780 3 Response:  ****************************************************************************
+2018-02-26 19:29:50 14780 3 Response: 230 User ftp@meadowsandbyrne.com logged in
+2018-02-26 19:29:50 14780 3 Status: Server does not support non-ASCII characters.
+2018-02-26 19:29:50 14780 3 Status: Logged in
+2018-02-26 19:29:50 14780 3 Status: Starting download of /meadowsandbyrne.com/meadows.zip
+2018-02-26 19:29:50 14780 3 Command: CWD /meadowsandbyrne.com
+2018-02-26 19:29:50 14780 3 Response: 250 CWD command successful
+2018-02-26 19:29:50 14780 3 Command: PWD
+2018-02-26 19:29:51 14780 3 Response: 257 "/meadowsandbyrne.com" is the current directory
+2018-02-26 19:29:51 14780 3 Command: TYPE I
+2018-02-26 19:29:51 14780 3 Response: 200 Type set to I
+2018-02-26 19:29:51 14780 3 Command: PASV
+2018-02-26 19:29:51 14780 3 Response: 227 Entering Passive Mode (165,84,209,32,195,168).
+2018-02-26 19:29:51 14780 3 Command: RETR meadows.zip
+2018-02-26 19:29:51 14780 3 Response: 150 Opening BINARY mode data connection for meadows.zip (7252037342 bytes)
+2018-02-26 19:39:42 14780 1 Response: 421 Idle timeout (600 seconds): closing control connection
+2018-02-26 19:39:42 14780 1 Status: Connection closed by server
+2018-02-26 21:26:38 14780 3 Error: Connection timed out after 40 seconds of inactivity
+2018-02-26 21:26:38 14780 3 Error: File transfer failed after transferring 7,252,037,342 bytes in 7006 seconds
+2018-02-26 21:26:38 14780 3 Status: Disconnected from server
+2018-02-26 21:26:38 14780 3 Status: Resolving address of meadowsandbyrne.com
+2018-02-26 21:26:38 14780 3 Status: Connecting to 165.84.209.32:21...
+2018-02-26 21:26:38 14780 3 Status: Connection established, waiting for welcome message...
+2018-02-26 21:26:38 14780 3 Response: 220 FTP Server Ready
+2018-02-26 21:26:38 14780 3 Command: USER ftp@meadowsandbyrne.com
+2018-02-26 21:26:38 14780 3 Response: 331 Password required for ftp@meadowsandbyrne.com
+2018-02-26 21:26:38 14780 3 Command: PASS ****************
+2018-02-26 21:26:38 14780 3 Response: 230-***************************************************************************
+2018-02-26 21:26:38 14780 3 Response:                              NOTICE TO USERS
+2018-02-26 21:26:38 14780 3 Response:  This computer system is private property. It is for authorized use only.
+2018-02-26 21:26:38 14780 3 Response:  Users (authorized or unauthorized) have no explicit or implicit
+2018-02-26 21:26:38 14780 3 Response:  expectation of privacy.
+2018-02-26 21:26:38 14780 3 Response:  
+2018-02-26 21:26:38 14780 3 Response:  Any or all uses of this system and all files on this system may be
+2018-02-26 21:26:38 14780 3 Response:  intercepted, monitored, recorded, copied, audited and inspected by
+2018-02-26 21:26:38 14780 3 Response:  using this system, the user consents to such interception, monitoring,
+2018-02-26 21:26:38 14780 3 Response:  recording, copying, auditing, inspection, and disclosure at the
+2018-02-26 21:26:38 14780 3 Response:  discretion of such personnel or officials.  Unauthorized or improper use
+2018-02-26 21:26:38 14780 3 Response:  of this system may result in civil and criminal penalties and
+2018-02-26 21:26:38 14780 3 Response:  administrative or disciplinary action, as appropriate. By continuing to
+2018-02-26 21:26:38 14780 3 Response:  use this system you indicate your awareness of and consent to these terms
+2018-02-26 21:26:38 14780 3 Response:  and conditions of use. LOG OFF IMMEDIATELY if you do not agree to the
+2018-02-26 21:26:38 14780 3 Response:  conditions stated in this warning.
+2018-02-26 21:26:38 14780 3 Response:  ****************************************************************************
+2018-02-26 21:26:38 14780 3 Response: 230 User ftp@meadowsandbyrne.com logged in
+2018-02-26 21:26:38 14780 3 Status: Server does not support non-ASCII characters.
+2018-02-26 21:26:38 14780 3 Status: Logged in
+2018-02-26 21:26:38 14780 3 Status: Starting download of /meadowsandbyrne.com/meadows.zip
+2018-02-26 21:26:38 14780 3 Command: CWD /meadowsandbyrne.com
+2018-02-26 21:26:39 14780 3 Response: 250 CWD command successful
+2018-02-26 21:26:39 14780 3 Status: File transfer skipped
+2018-02-26 21:26:39 14780 3 Status: Retrieving directory listing of "/meadowsandbyrne.com"...
+2018-02-26 21:26:39 14780 3 Command: TYPE I
+2018-02-26 21:26:39 14780 3 Response: 200 Type set to I
+2018-02-26 21:26:39 14780 3 Command: PASV
+2018-02-26 21:26:40 14780 3 Response: 227 Entering Passive Mode (165,84,209,32,195,133).
+2018-02-26 21:26:40 14780 3 Command: MLSD
+2018-02-26 21:26:40 14780 3 Response: 150 Opening BINARY mode data connection for MLSD
+2018-02-26 21:26:40 14780 3 Response: 226 Transfer complete
+2018-02-26 21:26:40 14780 3 Status: Directory listing of "/meadowsandbyrne.com" successful
+2018-02-26 21:27:39 14780 3 Status: Disconnected from server
